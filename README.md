@@ -30,3 +30,14 @@ Visual studio Code
 
 1. Clone the repository
 2. To compile the library you can either run make or make bonus in the terminal. The rule make will only compile the mandatory part of this work, while the make bonus rule will compile both the mandatory and the bonus part together.
+
+## Additional Information
+
+This project was graded 125/100.
+
+At 42, the projects are built following a some rules:
+
+- No for, do while, switch, case or goto are allowed
+- No more than 25 lines per function and 5 functions per file
+- No assigns and declarations in the same line (unless static)
+- No more than 5 variables in 1 function
